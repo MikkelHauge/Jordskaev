@@ -1,4 +1,4 @@
-#  Mikkels eksamensopgave - "Jordskæv"
+#  Mikkels eksamensopgave (iOS Programming, 4. semester) - "Jordskæv"
 
 ## Jordskælvs app
 Et par ting jeg måske har lavet lidt "anderledes" eller forkert:
